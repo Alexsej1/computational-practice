@@ -1,0 +1,3 @@
+C:/Users/Alex/Desktop/ВычПрактика/Пятая задача/cmake-build-debug/CMakeFiles/_.dir
+C:/Users/Alex/Desktop/ВычПрактика/Пятая задача/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alex/Desktop/ВычПрактика/Пятая задача/cmake-build-debug/CMakeFiles/rebuild_cache.dir
